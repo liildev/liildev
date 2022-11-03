@@ -22,6 +22,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/next-colored.svg" width="36" height="36" alt="Next" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
@@ -32,10 +33,10 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
 ### Socials
 
 <p align="left"> 
+<a href="https://www.facebook.com/liildev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/liildev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/mansurov.jr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/liildev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://www.facebook.com/liildev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
@@ -47,21 +48,6 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
 <a href="http://www.github.com/liildev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liildev&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/liildev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liildev&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### 🛠 Tech Stack and Tools
-
-| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue) ![mui](https://img.shields.io/badge/-Mui-1d365d?style=flat&logo=mui) ![styled-components](https://img.shields.io/badge/-styled_components-3B3B3B?style=flat&logo=styledComponents) ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux) ![Next](https://img.shields.io/badge/-Next-black)                       |
-| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-express.js-22ab28?style=express.js) ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-white?style=flat&logo=postgresql) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb) ![socket](https://img.shields.io/badge/-Socket.io-black?style=flat&logo=socket.io) ![GraphQL](https://img.shields.io/badge/-GraphQL-E00097?style=flat&logo=GraphQL) |
-| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                                                                                                                                                                                                                                                                                                                                                              |
-| ![Workflow](https://img.shields.io/badge/-Ohter-black?style=flat)    | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) [![Gitmoji][gitmoji]][gcw]                                                                                                                                                                                                                                                                                                                         |
-
-|
-
-[github-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
-[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
-[gcw]: https://github.com/liildev
 
 ## Snake
 
