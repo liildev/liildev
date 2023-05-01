@@ -4,7 +4,6 @@
 
 - 🌍 I'm based in Tashkent
 - ✉️ You can contact me at [liildev@mail.ru](mailto:liildev@mail.ru)
-- 🧠 I'm learning Nest.js
 - 🤝 I'm open to collaborating on interesting projects as Full stack developer
 - 🚀 I'm currently working on [Najot Ta'lim](https://najottalim.uz/)
 
