@@ -5,7 +5,7 @@
 - 🌍 I'm based in Tashkent
 - ✉️ You can contact me at [liildev@mail.ru](mailto:liildev@mail.ru)
 - 🤝 I'm open to collaborating on interesting projects as Full stack developer
-- 🚀 I'm currently working on [Najot Ta'lim](https://najottalim.uz/)
+- 🚀 I'm currently working on [Coreteam](https://coreteamgroup.com/)
 
 <a href="https://www.github.com/liildev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
