@@ -1,4 +1,4 @@
-# Hi, there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f7930929-8503-435c-9033-bf9025b9ac09" /># Hi, there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Frontend-End Developer (React.js, Next.js, Typescript)
 
@@ -363,7 +363,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
         </a>
         <a href='https://www.perfectpixel.io/' target='_blank' rel='noreferrer'>
           <img
-            src='https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgmh kdaapiiilojppnikcf?hl=en'
+            src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKlQKFMjDvtlZ-vlxwfbIGHGWrnxXXGPQD5A&s'
             width='36'
             height='36'
             alt='PerfectPixel'
