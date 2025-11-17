@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
 <a href="https://vanilla-extract.style/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="vanilla-extract/css" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidjs-colored.svg" width="36" height="36" alt="Solid.js" /></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/i/zustand" width="36" height="36" alt="Zustand" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"><img src="[https://skillicons.dev/i/zustand](https://blog.logrocket.com/wp-content/uploads/2024/08/Zustand-adoption-guide-Overview-examples-alternatives.png)" width="36" height="36" alt="Zustand" /></a>
 <a href="https://mobx.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/mobx/ff7102" width="36" height="36" alt="MobX" /></a>
 <a href="https://jotai.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jotai/000" width="36" height="36" alt="Jotai" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
