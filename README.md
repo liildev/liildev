@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/i/jest" width="36" height="36" alt="Jest" /></a>
 <a href="https://cypress.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/i/cypress" width="36" height="36" alt="Cypress" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/i/github" width="36" height="36" alt="GitHub" /></a>
-<a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/i/gitlab" width="36" height="36" alt="Gitlab" /></a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="[https://skillicons.dev/i/gitlab](https://skillicons.dev/icons?i=gitlab)" width="36" height="36" alt="Gitlab" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jira/0052cc" width="36" height="36" alt="Jira" /></a>
 <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/clickup/7b68ee" width="36" height="36" alt="ClickUp" /></a>
 <a href="https://www.perfectpixel.io/" target="_blank" rel="noreferrer"><img src="https://chromewebstore.google.com/detail/perfectpixel-by-welldonec/dkaagdgjmgmh kdaapiiilojppnikcf?hl=en" width="36" height="36" alt="PerfectPixel" /></a> 
