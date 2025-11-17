@@ -109,40 +109,12 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
             alt='Shadcn UI'
           />
         </a>
-        <a href='https://www.tss-react.dev/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://avatars.githubusercontent.com/u/82697372?s=200&v=4'
-            width='36'
-            height='36'
-            alt='tss-react'
-          />
-        </a>
         <a href='https://panda-css.com/' target='_blank' rel='noreferrer'>
           <img
-            src='https://logowik.com/content/uploads/images/panda-css976.logowik.com.webp'
+            src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/panda-css-icon.png'
             width='36'
             height='36'
             alt='Panda CSS'
-          />
-        </a>
-        <a href='https://sass-lang.com/' target='_blank' rel='noreferrer'>
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg'
-            width='36'
-            height='36'
-            alt='Scss/BEM'
-          />
-        </a>
-        <a
-          href='https://vanilla-extract.style/'
-          target='blank'
-          rel='noreferrer'
-        >
-          <img
-            src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg'
-            width='36'
-            height='36'
-            alt='vanilla-extract/css'
           />
         </a>
         <a href='https://javascript.info/' target='_blank' rel='noreferrer'>
@@ -195,7 +167,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
           rel='noreferrer'
         >
           <img
-            src='[https://skillicons.dev/i/zustand](https://blog.logrocket.com/wp-content/uploads/2024/08/Zustand-adoption-guide-Overview-examples-alternatives.png)'
+            src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s'
             width='36'
             height='36'
             alt='Zustand'
@@ -211,7 +183,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
         </a>
         <a href='https://jotai.org/' target='_blank' rel='noreferrer'>
           <img
-            src='https://cdn.simpleicons.org/jotai/000'
+            src='https://logowik.com/content/uploads/images/jotai4420.logowik.com.webp'
             width='36'
             height='36'
             alt='Jotai'
@@ -219,7 +191,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
         </a>
         <a href='https://redux.js.org/' target='_blank' rel='noreferrer'>
           <img
-            src='https//skillicons.dev/icons?i=redux'
+            src='https://skillicons.dev/icons?i=redux'
             width='36'
             height='36'
             alt='Redux'
@@ -227,7 +199,7 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
         </a>
         <a href='https://tanstack.com/' target='_blank' rel='noreferrer'>
           <img
-            src='https://cdn.simpleicons.org/tanstackquery/ff4154'
+            src='https://tanstack.com/images/logos/splash-light.png'
             width='36'
             height='36'
             alt='TanStack'
@@ -241,36 +213,12 @@ src="https://img.shields.io/github/followers/liildev?logo=github&style=for-the-b
             alt='i18next'
           />
         </a>
-        <a
-          href='https://next-intl-docs.vercel.app/'
-          target='_blank'
-          rel='noreferrer'
-        >
-          <img
-            src='https://avatars.githubusercontent.com/u/1051509?s=200&v=4'
-            width='36'
-            height='36'
-            alt='next-intl'
-          />
-        </a>
         <a href='https://zod.dev/' target='_blank' rel='noreferrer'>
           <img
             src='https://cdn.simpleicons.org/zod/3e67b1'
             width='36'
             height='36'
             alt='zod'
-          />
-        </a>
-        <a
-          href='https://github.com/jquense/yup'
-          target='_blank'
-          rel='noreferrer'
-        >
-          <img
-            src='https://cdn.simpleicons.org/yup/000'
-            width='36'
-            height='36'
-            alt='yup'
           />
         </a>
         <a href='https://react-hook-form.com/' target='_blank' rel='noreferrer'>
