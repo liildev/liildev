@@ -1,4 +1,4 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f7930929-8503-435c-9033-bf9025b9ac09" /># Hi, there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi, there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ## Frontend-End Developer (React.js, Next.js, Typescript)
 
