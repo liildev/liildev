@@ -10,6 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@liildev-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/liildev)
 [![Instagram](https://img.shields.io/badge/Instagram-mansurov.jr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mansurov.jr)
 [![GitHub](https://img.shields.io/github/followers/liildev?style=flat-square&logo=github&label=followers&color=6366f1)](https://github.com/liildev)
+![Profile views](https://komarev.com/ghpvc/?username=liildev&style=flat-square&color=6366f1)
 
 </div>
 
@@ -91,10 +92,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=liildev&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liildev&langs_count=8&theme=github_dark&hide_border=true&layout=compact&cache_seconds=86400" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=liildev&theme=onedark&no-frame=true&row=1&column=6" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=liildev&theme=github-dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=liildev&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
