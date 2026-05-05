@@ -1,83 +1,94 @@
 <div align="center">
 
-# mansourov
+# Mansurov Nozim
 
-**Frontend Developer — React · Next.js · TypeScript**
+**Frontend Developer**
 
-Tashkent, Uzbekistan · [liildev.uz](https://liildev.uz) · Open to collaboration
+📍 Tashkent, Uzbekistan &nbsp;·&nbsp; 🏢 Uzinfocom &nbsp;·&nbsp; 🌐 [liildev.uz](https://liildev.uz)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-liildev-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/liildev)
-[![Twitter](https://img.shields.io/badge/Twitter-@liildev-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/liildev)
-[![GitHub followers](https://img.shields.io/github/followers/liildev?style=flat-square&color=6366f1&label=followers)](https://github.com/liildev)
-
-</div>
-
----
-
-## Stack
-
-### Core
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Vite](https://skillicons.dev/icons?i=vite)
-![Bun](https://skillicons.dev/icons?i=bun)
-
-### Styling & UI
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Sass](https://skillicons.dev/icons?i=sass)
-
-<img src="https://cdn.simpleicons.org/shadcnui/000000" width="36" height="36" alt="shadcn/ui" title="shadcn/ui" />
-<img src="https://cdn.simpleicons.org/antdesign/1890FF" width="36" height="36" alt="Ant Design" title="Ant Design" />
-<img src="https://skillicons.dev/icons?i=materialui" width="36" height="36" alt="MUI" title="MUI v7" />
-<img src="https://cdn.simpleicons.org/mantine/339AF0" width="36" height="36" alt="Mantine" title="Mantine" />
-<img src="https://cdn.simpleicons.org/heroui?viewbox=auto&size=36" width="36" height="36" alt="HeroUI" title="HeroUI" />
-
-### State & Data
-<img src="https://tanstack.com/images/logos/splash-light.png" width="36" height="36" alt="TanStack Query" title="TanStack Query" />
-<img src="https://tanstack.com/images/logos/splash-light.png" width="36" height="36" alt="TanStack Router" title="TanStack Router" />
-
-![Redux](https://skillicons.dev/icons?i=redux)
-<img src="https://cdn.simpleicons.org/mobx/FF7102" width="36" height="36" alt="MobX" title="MobX" />
-<img src="https://cdn.simpleicons.org/zod/3E67B1" width="36" height="36" alt="Zod" title="Zod" />
-<img src="https://cdn.simpleicons.org/reacthookform" width="36" height="36" alt="React Hook Form" title="React Hook Form" />
-<img src="https://cdn.simpleicons.org/i18next/26A69A" width="36" height="36" alt="i18next" title="i18next" />
-![GraphQL](https://skillicons.dev/icons?i=graphql)
-
-### Testing
-![Vitest](https://skillicons.dev/icons?i=vitest)
-![Jest](https://skillicons.dev/icons?i=jest)
-![Cypress](https://skillicons.dev/icons?i=cypress)
-
-### Tooling & DevOps
-![GitHub](https://skillicons.dev/icons?i=github)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
-<img src="https://cdn.simpleicons.org/eslint/4B32C3" width="36" height="36" alt="ESLint" title="ESLint" />
-<img src="https://cdn.simpleicons.org/prettier/F7B93E" width="36" height="36" alt="Prettier" title="Prettier" />
-<img src="https://cdn.simpleicons.org/husky/424242" width="36" height="36" alt="Husky" title="Husky + lint-staged" />
-<img src="https://avatars.githubusercontent.com/u/60469024?s=280&v=4" width="36" height="36" alt="FSD" title="Feature-Sliced Design" />
-
----
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=liildev&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0d1117&hide_border=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liildev&langs_count=8&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=0d1117&hide_border=true&layout=compact" height="160" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liildev&stroke=ffffff&background=0d1117&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-liildev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liildev)
+[![Twitter](https://img.shields.io/badge/Twitter-@liildev-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/liildev)
+[![Instagram](https://img.shields.io/badge/Instagram-mansurov.jr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mansurov.jr)
+[![GitHub](https://img.shields.io/github/followers/liildev?style=flat-square&logo=github&label=followers&color=6366f1)](https://github.com/liildev)
 
 </div>
 
 ---
 
+## Languages & Runtime
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://javascript.info/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+## Frameworks & Libraries
+
+[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white)](https://www.solidjs.com/)
+
+## Styling & UI
+
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+[![MUI](https://img.shields.io/badge/MUI_v7-007FFF?style=flat-square&logo=mui&logoColor=white)](https://mui.com/)
+[![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)](https://ant.design/)
+[![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white)](https://mantine.dev/)
+[![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat-square&logo=heroui&logoColor=white)](https://heroui.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+## State & Data
+
+[![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)](https://tanstack.com/query)
+[![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square&logo=reactrouter&logoColor=white)](https://tanstack.com/router)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
+[![MobX](https://img.shields.io/badge/MobX-FF7102?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/)
+[![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logo=jotai&logoColor=white)](https://jotai.org/)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev/)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+[![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)](https://www.i18next.com/)
+
+## Testing
+
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://cypress.io/)
+
+## Tooling
+
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)](https://prettier.io/)
+[![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square&logo=git&logoColor=white)](https://typicode.github.io/husky/)
+[![FSD](https://img.shields.io/badge/Feature--Sliced_Design-FF6B6B?style=flat-square)](https://feature-sliced.design/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-![snake gif](https://github.com/liildev/liildev/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github-readme-stats.vercel.app/api?username=liildev&show_icons=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liildev&langs_count=8&theme=github_dark&hide_border=true&layout=compact&cache_seconds=86400" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=liildev&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/liildev/liildev/output/github-contribution-grid-snake.gif" />
 
 </div>
