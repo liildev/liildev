@@ -4,7 +4,7 @@
 
 **Software Engineer — React · Next.js · TypeScript**
 
-📍 Tashkent, Uzbekistan &nbsp;·&nbsp; 🏢 [Uzinfocom](https://uzinfocom.uz/) &nbsp;·&nbsp; 🌐 [liildev.uz](https://liildev.uz)
+📍 Tashkent, Uzbekistan &nbsp;·&nbsp; 🏢 [Uzinfocom](https://uzinfocom.uz/) &nbsp;·&nbsp; 🌐 [liildev.uz](https://liil.dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-liildev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liildev)
 [![Twitter](https://img.shields.io/badge/Twitter-@liildev-1D9BF0?style=flat-square&logo=x&logoColor=white)](https://twitter.com/liildev)
